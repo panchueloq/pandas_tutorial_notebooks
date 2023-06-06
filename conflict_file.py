@@ -1,4 +1,4 @@
-x = 10
+x = 12
 
 def function(x):
    pass
